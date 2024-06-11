@@ -19,14 +19,7 @@ export const Section4 = () => {
       <div className="inside-about">
         <div className="p" data-aos="fade-up">
           <p>
-            In The Heart Of Kanjirappara, Along Kanam Road, Our Development Team
-            Thrives Within The Walls Of Building No. 5/86. With The
-            Distinguished PIN 686540, We're Dedicated To Crafting Exceptional
-            Digital Solutions. Our Passion For Innovation And Years Of Expertise
-            Drive Us To Create Cutting-Edge Products That Exceed Expectations.
-            From Software Development To App Creation, We Specialize In Bringing
-            Ideas To Life. Thank You For Choosing Us To Embark On This Journey
-            Of Innovation. We're Excited To Build Remarkable Solutions Together.
+          In The Heart Of Kollam Bypass, Ayathil, Our Development Team Thrives. With The Distinguished PIN 691021, We're Dedicated To Crafting Exceptional Digital Solutions. Our Passion For Innovation And Years Of Expertise Drive Us To Create Cutting-Edge Products That Exceed Expectations. From Software Development To App Creation, We Specialize In Bringing Ideas To Life. Thank You For Choosing Us To Embark On This Journey Of Innovation. We're Excited To Build Remarkable Solutions Together.
           </p>
         </div>
         <div className="img" data-aos="fade-up">

@@ -31,7 +31,7 @@ export const Home = () => {
               <img  src="whylogo.png" alt="" />
             </div>
             <div className="main-why-div"  data-aos="fade-up" >
-             <p>Looking For Top-Notch Software Development Services? Look No Further Than Star Developers in Karukachal, Kerala, India. Our Team of Skilled Developers is Dedicated to Delivering High-quality Solutions Tailored to your Specific needs. Trust Star Developers to Bring Your Digital Projects to life with Expertise and Precision.</p>
+             <p>Looking For Top-Notch Software Development Services? Look No Further Than Star Developers in Ayathil, Kollam, Kerala, India. Our Team of Skilled Developers is Dedicated to Delivering High-quality Solutions Tailored to your Specific needs. Trust CODE CRAFT SOLUTION to Bring Your Digital Projects to life with Expertise and Precision.</p>
             </div>
           </div>
         </div>

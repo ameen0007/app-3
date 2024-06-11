@@ -15,7 +15,7 @@ export const Footer = () => {
  <div className='main-fdiv'>
     <div  data-aos="zoom-in" className='inf'>
         <img src="reallogo.png" alt="" />
-        <span>STAR DEVELOPERS</span>
+        <span>CODE CRAFT SOLUTION</span>
     </div>
  </div>
  <div className='f2' data-aos="fade-up">
@@ -23,10 +23,10 @@ export const Footer = () => {
  
  </div>
  <div className='f3'>
-        <a className='logo' href=""><FaFacebook /></a>
-        <a  className='logo' href="">< GrInstagram/></a>
-        <a className='logo' href="">< FaSquareXTwitter/></a>
-        <a className='logo' href=""><FaLinkedin /></a>
+        <a className='logo' href="#"><FaFacebook /></a>
+        <a  className='logo' href="#">< GrInstagram/></a>
+        <a className='logo' href="#">< FaSquareXTwitter/></a>
+        <a className='logo' href="#"><FaLinkedin /></a>
     </div>
  </>
   )
